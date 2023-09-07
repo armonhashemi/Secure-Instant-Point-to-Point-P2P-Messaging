@@ -1,4 +1,4 @@
-# ComputerSecurity-Project
+# Secure Instant Point-to-Point (P2P) Messaging
 
 ## Overview
 There are two main ways of using this project. The first is to simulate both the client and the server on one laptop using
